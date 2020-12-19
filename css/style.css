@@ -66,6 +66,10 @@ h3 {
   bottom: 300px;
   width: 100px;
 }
+.mnt{
+  width: 1352px; 
+  height: 500px;
+}
 .code {
   width: 25%;
   float: left;
