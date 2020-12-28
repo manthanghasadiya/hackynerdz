@@ -75,10 +75,16 @@ h3 {
   float: left;
   margin-right: 30px;
 }
+.code:hover{
+  box-shadow: 0 10px 16px 0 rgba(0,0,0,0.24), 0 7px 5px 0 rgba(0,0,0,0.19);
+}
 .hack {
   width: 25%;
   float: right;
   margin-left: 30px;
+}
+.hack:hover{
+  box-shadow: 0 10px 16px 0 rgba(0,0,0,0.24), 0 7px 5px 0 rgba(0,0,0,0.19);
 }
 hr {
   border-style: none;
@@ -143,7 +149,9 @@ a{
 a:hover{
   color: #eaf6f6;
 }
-
+.effect:hover{
+  box-shadow: 0 10px 16px 0 rgba(0,0,0,0.24), 0 7px 5px 0 rgba(0,0,0,0.19);
+}
 .ytintro{
   width: 30%;
   margin: auto;
